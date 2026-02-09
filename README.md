@@ -2,7 +2,7 @@
 
 # Client Background
 
-The A company (name changed for confidentiality) is a Myanmar-based investor that entered the Vietnam market 13 years ago with its first franchise in English education, following strong expansion in other countries. The investor has since diversified into pre-school English, STEM and non-education management services, resulting in significant human resource demands for smooth operations and further expansion.
+The A Holdings (name changed for confidentiality) is a Myanmar-based investor that entered the Vietnam market 13 years ago with its first franchise in English education, following strong expansion in other countries. The investor has since diversified into pre-school English, STEM and non-education management services, resulting in significant human resource demands for smooth operations and further expansion.
 The hiring process is influenced by multiple factors, including the quality of recruitment channels, recruiter performance, efficiency of hiring processes across business units, durations and conversion rates. Reporting to the Head of HR, this analysis evaluates recruitment performance and efficiency, providing key insights and recommendations focused on:
 - Recruitment channels efficiency: focus on total hires and candidate quality by each channel, aiming to identify the most effective sourcing sources and optimize recruitment investments to ensure high quality candidate acquisition
 - Business unit hiring process: analyzing average durations, time to hire, time to fill and conversion rates of different business units to identify bottlenecks and enhance sourcing, selection processes, and candidate experience for faster and better hires
