@@ -10,44 +10,60 @@ The hiring process is influenced by multiple factors, including the quality of r
 
 # Executive Summary
 
-### 1. Recruitment Growth and Peak Performance (2024):
-In 2024, 12,266 candidates were screened, leading to 336 offers and 315 hires with a 2.57% conversion rate. The recruitment cycle was efficient with an average time to fill of 27 days and time to hire of 13 days. TopCV, CareerViet and Employee Referral were the primary high-performing sources
+### 1. Overall Hiring Performance: 2024 vs 2025
+In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a Hiring Success Rate of 2.3%. Offer Acceptance reached 92.3%, indicating strong offer competitiveness and stable late-stage conversion
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fefe7cef1d7086462afadc27f2538fc1cf71eb35/Recruitment%20Growth%20and%20Peak%20Performance%20(2024).png)
+In 2025, although screening volume increased significantly to 14,876 candidates (+25%), total onboarded hires declined sharply to 126. As a result, Hiring Success Rate dropped to 0.8% (–63% YoY). This indicates that the issue in 2025 is not pipeline volume but conversion effectiveness. 2025 reflects a pattern of increased effort but reduced output
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fefe7cef1d7086462afadc27f2538fc1cf71eb35/Hire%20by%20source%202024%20overall.png)
+### 2. Funnel Quality Deterioration
+In 2024, the pipeline showed healthy progression and conversion remained stable across stages: 14.6% of screened candidates progressed to interview, 17.1% of interviews converted to offers & 92.3% of offers were accepted
 
-### 2. Declining Trend in 2025:
-Although screened candidates increased by 18%, offers and hires dropped by 61% and 65% respectively. Conversion rate fell to 0.75%, indicating lower candidate quality or stricter selection. Time to fill increased to 31 days, hinting at bottlenecks
+In 2025, all major transitions weakened simultaneously: screening → interview declined to 10.4%, interview → offer declined to 10.0% & offer acceptance dropped to 81.3%. This suggests a systemic decline rather than an isolated bottleneck. Candidate qualification at screening appears weaker, interview selectivity less precise & offer competitiveness lower than the prior year. Pipeline leakage increased at every stage.
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fefe7cef1d7086462afadc27f2538fc1cf71eb35/Overall%20Declining%20Trend%20in%202025.png)
+### 3. Operational Efficiency Decline
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/3c20815155b825bed346bce855da3db3b8ebbd80/Hire%20by%20source%202025%20overall.png)
+Productivity indicators further confirm this shift. In 2024, 7 CVs were required to generate 1 interview, 6 interviews were required to secure 1 offer
 
-### 3. Source Insights and Efficiency:
-TopCV, CareerViet and LinkedIn remained key sources, but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
+In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. Recruiter effort has increased substantially while yield per stage has decreased. Although offer per hire remains at 1, overall offer issuance has dropped due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
+TopCV, CareerViet and LinkedIn remained key sources but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/3c20815155b825bed346bce855da3db3b8ebbd80/Overall%20candidate%20quality%20by%20source.png)
+### 4. Business Unit Performance Shift
+In 2024, offer acceptance rates were consistently strong across Business Units. Acceptance stability suggested competitive positioning and effective candidate engagement
 
-### 4. Candidate Quality & Funnel Efficiency:
-A higher volume of screened candidates is now needed per hire, reflecting a drop in candidate quality or less effective screening. Causes may include broad but less precise sourcing, inconsistent evaluation criteria and process delays causing candidate dropouts. Recommendations include auditing top sources, tightening screening standards and reducing lead times to enhance funnel efficiency
+In 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
 
-### Key Takeaways and Recommendations:
-Address causes of 2025 efficiency decline, including increased volume and process delays. Prioritize high yield channels like referrals. Streamline interview and offer stages. Tailor sourcing strategies by business unit to balance volume and quality
+Scatter analysis indicates that some units maintain moderate Interview → Offer rates but suffer from declining acceptance. This may point to compensation competitiveness, candidate experience inconsistency, or delayed decision cycles in certain units. Performance dispersion across BUs has widened
 
-## Insight Deep Dive
-### 1. Source Effectiveness & Candidate Quality
-- Overall data shows TopCV, CareerViet and Employee Referral generate most hires, but overall conversion to offer stays below 5%, indicating low sourcing efficiency
-- A high number of screened candidates are required for each hire → suggests broad but low-quality sourcing or ineffective screening filters
-- Sales 2024 mirrors the same pattern: high reliance on TopCV and Referral, while other online job boards deliver minimal offer rates
-- Offer acceptance within Sales remains modest, pointing to potential candidate role mismatch or less competitive offer terms
+### 5. Monthly Trend Pattern
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/e361172e051e9bdace21663844cf26cdfc4ec0ca/Sales%20hired%20by%20source.png)
+While 2024 reflected temporary fluctuations followed by recovery, 2025 demonstrates sustained efficiency pressure throughout the year. The additional screening volume failed to drive equivalent hiring outcomes, indicating a structural shift rather than cyclical seasonality
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/e361172e051e9bdace21663844cf26cdfc4ec0ca/Sales%20candidate%20quality%20by%20source.png)
-  
-### Recommendation: 
-Focus sourcing budget on proven high-conversion channels, refine screening criteria and review offer attractiveness to improve Sales funnel efficiency
+The highlighted months indicate periods where screening volume exceeded the annual average while conversion performance fell below benchmark. This signals that increased sourcing intensity did not generate proportional hiring outcomes. In several high-volume periods, efficiency declined further rather than improving. The pattern points to structural inefficiency under pressure — potentially driven by diluted screening criteria, heavier recruiter workload, slower hiring decisions, or reduced offer competitiveness.
+
+Notably in 2025, the clustering of such months suggests that scaling effort without reinforcing conversion discipline amplified pipeline leakage instead of strengthening hiring success
+
+## Recommendations
+### 1. Tighten Early Stage Qualification
+- Conduct a brief alignment session before major hiring waves to clarify must-have vs. nice-to-have criteria
+- Implement a mandatory 5–7 point screening checklist before submitting CVs
+- Track first-round rejection rate of submitted CVs
+- Reduce reliance on high-volume channels with consistently low interview conversion
+### Target: bring CVs per Interview down to ≤8 within two quarters
+
+ ### 2. Standardize Interview & Decision Discipline
+- Introduce structured interview scorecards with 3–5 fixed evaluation criteria per role group
+- Cap interview rounds (e.g., maximum three rounds unless justified)
+- Set a 48-hour feedback SLA after interviews
+- Review roles requiring more than eight interviews per offer on a monthly basis
+### Target: reduce Interviews per Offer to ≤7
+
+### 3. Protect Offer Yield & Strengthen BU Accountability
+- Analyze the most recent 10 declined offers to identify recurring themes
+- Reduce average time to offer by 20%
+- Publish monthly BU-level conversion dashboards with benchmark thresholds
+- Integrate conversion KPIs into recruiter and BU performance reviews
+### Target: restore Acceptance Rate to ≥85% & reduce cross BU variance
+
 
 ### 1.1 Recruitment Conversion & Process Efficiency by Business Unit (2024 – 2025)
 - Overall trend: across Education Business Units, conversion declined from ~18 – 27% (2024) to 6 - 18% (2025) in the interview to offer stage, showing a weaker funnel efficiency year over year
