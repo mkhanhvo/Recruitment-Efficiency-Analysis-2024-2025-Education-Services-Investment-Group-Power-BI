@@ -13,26 +13,40 @@ The hiring process is influenced by multiple factors, including the quality of r
 ### 1. Overall Hiring Performance: 2024 vs 2025
 In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a Hiring Success Rate of 2.3%. Offer Acceptance reached 92.3%, indicating strong offer competitiveness and stable late-stage conversion
 
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202024%20-%20Funnel%2C%20Trend%2C%20Distribution.png)
+
 In 2025, although screening volume increased significantly to 14,876 candidates (+25%), total onboarded hires declined sharply to 126. As a result, Hiring Success Rate dropped to 0.8% (–63% YoY). This indicates that the issue in 2025 is not pipeline volume but conversion effectiveness. 2025 reflects a pattern of increased effort but reduced output
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202025%20-%20Funnel%2C%20Trend%2C%20Distribution.png)
 
 ### 2. Funnel Quality Deterioration
 In 2024, the pipeline showed healthy progression and conversion remained stable across stages: 14.6% of screened candidates progressed to interview, 17.1% of interviews converted to offers & 92.3% of offers were accepted
 
 In 2025, all major transitions weakened simultaneously: screening → interview declined to 10.4%, interview → offer declined to 10.0% & offer acceptance dropped to 81.3%. This suggests a systemic decline rather than an isolated bottleneck. Candidate qualification at screening appears weaker, interview selectivity less precise & offer competitiveness lower than the prior year. Pipeline leakage increased at every stage.
 
-### 3. Operational Efficiency Decline
+### 3. Business Unit Performance Shift
+In 2024, offer acceptance rates were consistently strong across Business Units. Acceptance stability suggested competitive positioning and effective candidate engagement. In 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
+
+*2024 data*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202024%20-%20Accept%20Rate%2C%20Scatter.png)
+
+*2025 data*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202025%20-%20Accept%20Rate%2C%20Scatter.png)
+
+Scatter analysis indicates that some units maintain moderate Interview → Offer rates but suffer from declining acceptance. This may point to compensation competitiveness, candidate experience inconsistency, or delayed decision cycles in certain units. Performance dispersion across BUs has widened
+
+### 4. Operational Efficiency Decline
 
 Productivity indicators further confirm this shift. In 2024, 7 CVs were required to generate 1 interview, 6 interviews were required to secure 1 offer
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202024%20-%20Cards.png)
 
 In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. Recruiter effort has increased substantially while yield per stage has decreased. Although offer per hire remains at 1, overall offer issuance has dropped due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
 TopCV, CareerViet and LinkedIn remained key sources but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
 
-### 4. Business Unit Performance Shift
-In 2024, offer acceptance rates were consistently strong across Business Units. Acceptance stability suggested competitive positioning and effective candidate engagement
-
-In 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
-
-Scatter analysis indicates that some units maintain moderate Interview → Offer rates but suffer from declining acceptance. This may point to compensation competitiveness, candidate experience inconsistency, or delayed decision cycles in certain units. Performance dispersion across BUs has widened
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202025%20-%20Cards.png)
 
 ### 5. Monthly Trend Pattern
 
