@@ -13,7 +13,7 @@ The hiring process is influenced by multiple factors, including the quality of r
 ### 1. Overall Hiring Performance: 2024 vs 2025
 In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a Hiring Success Rate of 2.3%. Offer Acceptance reached 92.3%, indicating strong offer competitiveness and stable late-stage conversion
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202024%20-%20Funnel%2C%20Trend%2C%20Distribution.png)
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fbbd28796079e4b0ff06992bad9a01452ab03607/Source%20-%20Hiring%20rate%20by%20source%20(2024).png)
 
 In 2025, although screening volume increased significantly to 14,876 candidates (+25%), total onboarded hires declined sharply to 126. As a result, Hiring Success Rate dropped to 0.8% (–63% YoY). This indicates that the issue in 2025 is not pipeline volume but conversion effectiveness. 2025 reflects a pattern of increased effort but reduced output
 
@@ -76,7 +76,7 @@ The highlighted months indicate periods where screening volume exceeded the annu
 - Integrate conversion KPIs into recruiter and BU performance reviews
 ### Target: restore Acceptance Rate to ≥85% & reduce cross BU variance
 
-## Source Performance & Conversion Effectiveness
+# Source Performance & Conversion Effectiveness
 
 ### 1. Sourcing Effectiveness Shift: 2024 vs 2025
 
@@ -90,7 +90,7 @@ In 2025, sourcing dynamics became more polarized. Screening volume increased acr
 
 The volume versus conversion comparison highlights a structural imbalance: incremental screening effort did not produce proportional hiring gains. Instead, effort intensity increased, as reflected in higher CVs per Interview and Interviews per Offer ratios for several large channels. This suggests declining top of funnel quality and reduced mid stage selectivity rather than insufficient pipeline size
 
-*Relationship Between Screening Volume & Hiring Success by Source in 2024*
+### *Relationship Between Screening Volume & Hiring Success by Source in 2024*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Source%20volume%20and%20hiring%20rate%20(2024).png)
 
@@ -98,33 +98,112 @@ The volume versus conversion comparison highlights a structural imbalance: incre
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Source%20volume%20and%20hiring%20rate%20(2025).png)
 
-*Stage Conversion Relationship by Source in 2024*
+### *Stage Conversion Relationship by Source in 2024*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20qualification%20breakdown%20(2024).png)
 
-*Stage Conversion Relationship by Source in 2025*
+### *Stage Conversion Relationship by Source in 2025*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Stage%20ratios%20by%20source%20(2025).png)
 
-*Stage Requirement Ratios by Source in 2024*
+### *Stage Requirement Ratios by Source in 2024*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Stage%20ratios%20by%20source%20(2024).png)
 
-*Stage Requirement Ratios by Source in 2025*
+### *Stage Requirement Ratios by Source in 2025*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Stage%20ratios%20by%20source%20(2025).png)
 
 Role specific analysis (e.g., Sales) further indicates that channel effectiveness varies by job family. Certain platforms perform adequately at an overall level but underdeliver in function specific hiring, reinforcing the need for role channel alignment rather than uniform source allocation
 
-*Sales hiring rate by source in 2024*
+### *Sales hiring rate by source in 2024*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0844083a9781a307c6a50588850db756c1ace573/Source%20-%20Sales%20consultant%20hire%20by%20source%20(2024).png)
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fbbd28796079e4b0ff06992bad9a01452ab03607/Source%20-%20Hiring%20rate%20by%20source%20(2024).png)
 
-*Sales hiring rate by source in 2025*
+### *Sales hiring rate by source in 2025*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Sales%20consultant%20hire%20by%20source%20(2025).png)
 
+This pattern is also evident in the Teacher position where channel contribution shifted significantly year over year. While VTJ dominated hiring share in 2024, its sharp decline in 2025 highlights how source performance can fluctuate depending on role dynamics & sourcing strategy adjustments. In contrast, TopCV strengthened its position as the primary hiring driver & Employee Referral emerged as a meaningful contributor, suggesting improved alignment between channel quality & role requirements. Together, these findings emphasize that sourcing strategy should be calibrated at the job-family level, with ongoing performance monitoring to optimize conversion efficiency and hiring outcomes
+
+### *Teacher hiring rate by source in 2024*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/ae7faf39d985fe8052ab37c740a189442de1fc06/Source%20-%20Teacher%20hire%20by%20source%20(2024).png)
+
+### *Teacher hiring rate by source in 2025*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/80cc9e8f8f0f237e2a465a26b511e4ea64396e5d/Source%20-%20Teacher%20hire%20by%20source%20(2025).png)
+
 Overall, the data suggests that sourcing inefficiency in 2025 is driven primarily by channel mix quality rather than absolute screening volume. Without recalibrating allocation toward consistently high-yield channels, additional sourcing effort is likely to amplify recruiter workload rather than improve hiring output
 
-
+# Business Unit & Position Efficiency Analysis – 2024 & 2025
   
+Across 2024 & 2025, high CVs per hire consistently concentrate in strategic, technical and Head Quarter based roles with selected commercial positions in Adult English also requiring significant hiring effort. Funnel diagnostics indicate that neither screening intensity nor offer rejection rate fully explains this inefficiency. While mid-funnel conversion (interview → offer) contributes in certain roles, the pattern suggests more structural challenges, such as talent scarcity, expectation misalignment & market competitiveness rather than isolated process issues
+
+### 1. High CVs per Hire – Cross Year Pattern
+In 2024, high CVs volume intensive roles were primarily concentrated in:
+- Senior HQ functions (Marketing Head, Finance Head, HRBP, Investment Analyst)
+- Specialized roles (Software Support, Corporate Investment)
+- Selected Adult English commercial roles
+
+In 2025, the pattern remains similar, with concentration in:
+- Group HQ strategic/technical roles (Digital Marketing Specialist, Data Engineer, Strategy, Commercial Solution)
+- Adult English commercial and education related roles (Branch Sales Manager, Sales Consultant, Teacher, Student Services)
+
+Cross year consistency shows that hiring inefficiency is role structure driven rather than year specific fluctuation
+
+### 2. Is Offer Rejection the Key Reason?
+Across both years, only a minority of high CV per hire roles overlap with high rejection positions. Several roles show high rejection rates but do not require excessive CV volume. Offer rejection contributes in selected cases but does not systematically drive CV inefficiency
+
+### *Top 10 Positions – Highest CVs per Hire vs Highest Offer Rejection Rate (2024)*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/1b6d5479662b2f1bce0dd133bfd2bbb6c1a4b340/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Hire%20%26%20Rejection%20rate%20(2024)%20-%2055%25%20image.png)
+
+### *Top 10 Positions – Highest CVs per Hire vs Highest Offer Rejection Rate (2025)*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/27550888d29e9ef7a7b9312f3ba6df51e6b765c4/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Hire%20%26%20Rejection%20rate%20(2025)%20-%2055%25%20image.png)
+
+### 3. Is Screening Volume the Main Driver?
+In both years, roles requiring high CV volume to generate interviews do not significantly overlap with those requiring high CVs per hire. This indicates front end screening inefficiency is not the primary root cause. High CV requirement is not simply due to poor CV quality inflow
+
+### *Top 10 Positions with the Highest CVs per Interview (2024)*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Interview%20(2024).png)
+
+### *Top 10 Positions with the Highest CVs per Interview (2025)*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Interview%20(2025).png)
+
+### 4. Mid Funnel Conversion Impact
+In 2025 especially, several high CV intensive roles also show high Interview per Offer ratios (e.g., Strategy, Commercial Solution, Teacher, Student Services). This suggests mid funnel inefficiency partially explains hiring effort, particularly for strategic and education related roles. However, since overlap remains limited, this still does not fully account for the pattern
+
+### *Top 10 Positions with the Highest Interviews per Offer (2024)*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20Interview%20per%20Offer%20(2024).png)
+
+### *Top 10 Positions with the Highest Interviews per Offer (2025)*
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20Interview%20per%20Offer%20(2025).png)
+
+## Core Cross Year Insight
+High CV per hire roles across 2024 2025 are:
+- Concentrated in high complexity and strategic functions
+- Frequently HQ-based
+- Sensitive to market supply demand imbalance
+- Partially affected by mid funnel conversion challenges
+
+The data suggests structural factors such as:
+- Talent scarcity (Data, Strategy, Digital roles)
+- Compensation competitiveness
+- Elevated hiring standards
+- Expectation misalignment between hiring managers and market reality
+
+## Recommendations
+The consistent concentration of high CVs per hire in strategic and Head Quarter roles across two consecutive years signals a structural hiring challenge, not a temporary funnel fluctuation. Continuing to apply volume based recruitment strategies to high complexity roles will likely increase sourcing effort without materially improving hiring outcomes
+
+Leadership intervention is required in three areas:
+- Recalibrate role expectations vs. market reality for strategic and technical positions
+- Shift from volume sourcing to precision sourcing (targeted channels, headhunting, niche pools)
+- Strengthen hiring manager alignment and decision discipline to reduce mid-funnel inefficiencies.
+
+Without differentiated strategy by job complexity, recruitment effort will continue to scale disproportionately with limited return. The data indicates that efficiency gains will not come from “more CVs,” but from smarter targeting and tighter decision alignment
