@@ -77,7 +77,7 @@ The highlighted months indicate periods where screening volume exceeded the annu
 - Integrate conversion KPIs into recruiter and BU performance reviews
 ### Target: restore Acceptance Rate to ≥85% & reduce cross BU variance
 
-# I. Source Performance & Conversion Effectiveness
+## I. Source Performance & Conversion Effectiveness
 
 ### 1. Sourcing Effectiveness Shift: 2024 vs 2025
 
@@ -95,7 +95,7 @@ The volume versus conversion comparison highlights a structural imbalance: incre
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Source%20volume%20and%20hiring%20rate%20(2024).png)
 
-*Relationship Between Screening Volume & Hiring Success by Source in 2025*
+### *Relationship Between Screening Volume & Hiring Success by Source in 2025*
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Source%20volume%20and%20hiring%20rate%20(2025).png)
 
@@ -209,7 +209,7 @@ Leadership intervention is required in three areas:
 
 Without differentiated strategy by job complexity, recruitment effort will continue to scale disproportionately with limited return. The data indicates that efficiency gains will not come from “more CVs,” but from smarter targeting and tighter decision alignment
 
-# III. PIC Performance Analysis - 2024 & 2025
+## III. PIC Performance Analysis - 2024 & 2025
 
 Across 2024 - 2025, PIC performance shows increasing dispersion between high efficiency & low efficiency recruiters. While certain PICs consistently demonstrate strong screen to join success rates & balanced funnel conversion, performance gaps widen in BU specific hiring particularly in Sales and HQ roles. Bubble size comparison (CVs per Hire) further indicates that high success rate does not always equate to sourcing efficiency, highlighting the need for workload balancing & role based performance calibration
 
@@ -241,7 +241,7 @@ Bubble analysis indicates that higher CVs per Hire is often associated with: str
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Sales%20hiring%20performance%20for%20Adult%20English%20(2025).png)
 
-## Interpretation
+### Insights
 - Possible inconsistency in candidate screening standards
 - Potential misalignment between early screening & hiring manager expectations
 - Some PICs may rely on narrower pipelines but achieve stronger late stage conversion
@@ -259,7 +259,7 @@ Bubble analysis indicates that higher CVs per Hire is often associated with: str
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Sales%20hiring%20performance%20for%20Kids%20English%20(2025).png)
 
-## Interpretation
+### Insights
 - Over reliance on specific PICs may increase operational risk
 - Efficiency gains may reflect experience accumulation or better hiring calibration
 
@@ -295,7 +295,7 @@ Performance metrics highly sensitive to small sample size
 
 ![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20HQ%20Performance%20in%202025.png)
 
-## Interpretation
+### Insights
 - Strategic/technical roles likely driving conversion volatility
 - Decision making friction may impact interview → offer stage
 
