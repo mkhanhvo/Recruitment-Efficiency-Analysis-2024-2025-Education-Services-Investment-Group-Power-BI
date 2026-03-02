@@ -1,4 +1,8 @@
-# Recruitment Performance and Efficiency Analysis 2024 - 2025 (Education domain)
+# 📊 Recruitment Performance & Efficiency Analysis 2024–2025
+
+### Author: Vo Tran Mai Khanh
+### Date: 12/2025
+### Tools Used: Power Query, PBI
 
 # Client Background
 
