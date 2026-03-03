@@ -98,7 +98,7 @@ The A Holdings is a UK based investor that entered the Vietnam market 13 years a
 
 ### 1️⃣ Recruitment Performance Overview
 
-### 📌 Analysis 1. Overall Hiring Performance: 2024 vs 2025
+### 📌 Analysis 1. Overall Hiring Performance
 
 In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a **Hiring Success Rate of 2.3%**. **Offer Acceptance reached 92.3%** indicating strong offer competitiveness and stable late stage conversion
 
