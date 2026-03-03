@@ -1,4 +1,4 @@
-# 📊 Recruitment Performance & Efficiency Analysis 2024–2025
+# 📊 Recruitment Performance & Efficiency Analysis (2024 – 2025)
 
 ### Author: Vo Tran Mai Khanh
 ### Date: 01/2026
