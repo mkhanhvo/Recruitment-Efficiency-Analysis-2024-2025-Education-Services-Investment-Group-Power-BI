@@ -1,8 +1,8 @@
 # 📊 Recruitment Performance & Efficiency Analysis (2024 – 2025)
 
-### Author: Vo Tran Mai Khanh
-### Date: 01/2026
-### Tools Used: Power Query, PBI
+#### Author: Vo Tran Mai Khanh
+#### Date: 01/2026
+#### Tools Used: Power Query, PBI
 
 ## 📌 Background & Overview  
 
