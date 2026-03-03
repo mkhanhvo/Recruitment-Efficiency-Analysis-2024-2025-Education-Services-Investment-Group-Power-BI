@@ -30,15 +30,19 @@ The A Holdings is a UK based investor that entered the Vietnam market 13 years a
 - Size: ~27,000+ records across 01 fact table and 04 supporting dimensions
 - Format: .xlsx
 
+#### 1️⃣ Tables Used:
+- Recruitment Tracking
+- Dimension Position
+- Dimension Business Unit
+- Dimension Hiring Sources
+- Dimension Date
+
 #### 2️⃣ Table Schema & Data Snapshot: 
 **Table 1: Recruitment tracking**
 <details>
 <summary>Recruitment tracking Schema</summary>
 <img width="740" height="94" alt="image" src="https://github.com/user-attachments/assets/f1a28c75-9e15-4e48-875d-5db2024641a4" />
 <img width="959" height="95" alt="image" src="https://github.com/user-attachments/assets/05cbffd2-3fdc-47c4-9411-16c49d8215ee" />
-<img width="574" height="95" alt="image" src="https://github.com/user-attachments/assets/25d33f09-ad65-4e29-a658-8ac45002fd6f" />
-<img width="571" height="94" alt="image" src="https://github.com/user-attachments/assets/2f9f0f2c-7d04-43b8-a5a0-f5ad47b3ad2f" />
-<img width="628" height="93" alt="image" src="https://github.com/user-attachments/assets/d4e27e5a-f664-47ca-906b-18645871e678" />
 </details>
 
 **Table 2: Dimension Position**
@@ -46,118 +50,144 @@ The A Holdings is a UK based investor that entered the Vietnam market 13 years a
 <summary>Dimension Position Schema</summary>
 <img width="551" height="95" alt="image" src="https://github.com/user-attachments/assets/53478283-3bcb-443f-97d4-03b1acaf0d11" />
 <img width="572" height="94" alt="image" src="https://github.com/user-attachments/assets/7659c113-2710-43c7-be97-d4b1d1964ffd" />
+<img width="574" height="95" alt="image" src="https://github.com/user-attachments/assets/25d33f09-ad65-4e29-a658-8ac45002fd6f" />
+<img width="571" height="94" alt="image" src="https://github.com/user-attachments/assets/2f9f0f2c-7d04-43b8-a5a0-f5ad47b3ad2f" />
+<img width="628" height="93" alt="image" src="https://github.com/user-attachments/assets/d4e27e5a-f664-47ca-906b-18645871e678" />
 </details>
 
+**Table 3: Dimension Business Unit**
+<details>
+<summary>Dimension Business Unit</summary>
+<img width="133" height="96" alt="image" src="https://github.com/user-attachments/assets/972ca654-fe68-46b5-80b0-19589d1e93a3" />
+</details>
 
-- Business Unit
-- Hiring sources
-- Person incharge
+**Table 4: Dimension Hiring Sources**
+<details>
+<summary>Dimension Hiring Sources</summary>
+<img width="77" height="279" alt="image" src="https://github.com/user-attachments/assets/00f9599d-4e52-435b-966b-26c693432af2" />
+</details>
 
-# Executive Summary
+**Table 5: Dimension Time**
+<details>
+<summary>Dimension Time</summary>
+<img width="387" height="263" alt="image" src="https://github.com/user-attachments/assets/3cd02e5c-353b-4b61-8084-4cc1c36c8bef" />
+</details>
 
-### 1. Overall Hiring Performance: 2024 vs 2025
+#### 3️⃣ Data Relationships:
+- Recruitment Tracking -> Dim Time: many to one
+- Recruitment Tracking -> Dim Position: many to one
+- Recruitment Tracking -> Dim Business Unit: many to one
+- Recruitment Tracking -> Dim Hiring Sources: many to one
+
+<img width="698" height="470" alt="image" src="https://github.com/user-attachments/assets/0c327361-57a4-48d7-bd0c-2baceb77c3ac" />
+
+## 🧠 Design Thinking Process  
+### 1️⃣ Empathize 
+
+<img width="756" height="489" alt="image" src="https://github.com/user-attachments/assets/16212c75-a7d2-4a5e-a58f-bff542c785af" />
+
+### 2️⃣ Define point of view 
+
+<img width="1035" height="303" alt="image" src="https://github.com/user-attachments/assets/7197ff05-d301-4284-8e37-491208c11b49" />
+
+### 3️⃣ Ideate  
+
+<img width="1087" height="227" alt="image" src="https://github.com/user-attachments/assets/c58fb124-b4ae-4199-b97f-d811feb23832" />
+
+## 📊 Key Insights & Visualizations  
+
+### 1️⃣ Recruitment Performance Overview
+
+### 📌 Analysis 1. Overall Hiring Performance: 2024 vs 2025
+
 In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a Hiring Success Rate of 2.3%. Offer Acceptance reached 92.3%, indicating strong offer competitiveness and stable late-stage conversion
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fbbd28796079e4b0ff06992bad9a01452ab03607/Source%20-%20Hiring%20rate%20by%20source%20(2024).png)
+<img width="1040" height="313" alt="image" src="https://github.com/user-attachments/assets/87f939c0-688b-437b-8a55-6f9ac8212ac5" />
 
 In 2025, although screening volume increased significantly to 14,876 candidates (+25%), total onboarded hires declined sharply to 126. As a result, Hiring Success Rate dropped to 0.8% (–63% YoY). This indicates that the issue in 2025 is not pipeline volume but conversion effectiveness. 2025 reflects a pattern of increased effort but reduced output
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202025%20-%20Funnel%2C%20Trend%2C%20Distribution.png)
+<img width="1037" height="311" alt="image" src="https://github.com/user-attachments/assets/f819d4de-b2a2-4a19-89eb-28c02d4a0743" />
 
-### 2. Funnel Quality Deterioration
-In 2024, the pipeline showed healthy progression and conversion remained stable across stages: 14.6% of screened candidates progressed to interview, 17.1% of interviews converted to offers & 92.3% of offers were accepted
-
-In 2025, all major transitions weakened simultaneously: screening → interview declined to 10.4%, interview → offer declined to 10.0% & offer acceptance dropped to 81.3%. This suggests a systemic decline rather than an isolated bottleneck. Candidate qualification at screening appears weaker, interview selectivity less precise & offer competitiveness lower than the prior year. Pipeline leakage increased at every stage.
-
-### 3. Business Unit Performance Shift
-In 2024, offer acceptance rates were consistently strong across Business Units. Acceptance stability suggested competitive positioning and effective candidate engagement. In 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
-
-### *Offer Conversion Alignment by Business Unit in 2024*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202024%20-%20Accept%20Rate%2C%20Scatter.png)
-
-### *Offer Conversion Alignment by Business Unit in 2025*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202025%20-%20Accept%20Rate%2C%20Scatter.png)
-
-Scatter analysis indicates that some units maintain moderate Interview → Offer rates but suffer from declining acceptance. This may point to compensation competitiveness, candidate experience inconsistency, or delayed decision cycles in certain units. Performance dispersion across BUs has widened
-
-### 4. Operational Efficiency Decline
+### 📌 Analysis 2. Pipeline Productivity Deterioration
 
 Productivity indicators further confirm this shift. In 2024, 7 CVs were required to generate 1 interview, 6 interviews were required to secure 1 offer
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202024%20-%20Cards.png)
+#### *2024 Hiring Efficiency & Conversion*
+
+<img width="1036" height="175" alt="image" src="https://github.com/user-attachments/assets/bd24ad5f-205e-4e3b-a667-9240ac545904" />
 
 In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. Recruiter effort has increased substantially while yield per stage has decreased. Although offer per hire remains at 1, overall offer issuance has dropped due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
 TopCV, CareerViet and LinkedIn remained key sources but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0564927241b4b5ab093738e4633aafad26b1fa14/Overview%202025%20-%20Cards.png)
+#### *2025 Hiring Efficiency & Conversion*
 
-### 5. Monthly Trend Pattern
+<img width="1040" height="169" alt="image" src="https://github.com/user-attachments/assets/bcb9bfc5-b18e-4cc1-9e8a-ac15351be7b5" />
+
+### 📌 Analysis 3. Funnel Quality Deterioration
+In 2024, the pipeline showed healthy progression and conversion remained stable across stages: 14.6% of screened candidates progressed to interview, 17.1% of interviews converted to offers & 92.3% of offers were accepted
+
+#### *2024 Hiring Funnel & Performance Overview*
+
+<img width="833" height="242" alt="image" src="https://github.com/user-attachments/assets/91d184d0-4148-4a14-8981-6707899cb0a4" />
+
+In 2025, all major transitions weakened simultaneously: screening → interview declined to 10.4%, interview → offer declined to 10.0% & offer acceptance dropped to 81.3%. This suggests a systemic decline rather than an isolated bottleneck. Candidate qualification at screening appears weaker, interview selectivity less precise & offer competitiveness lower than the prior year. Pipeline leakage increased at every stage
+
+#### *2025 Hiring Funnel & Performance Overview*
+
+<img width="836" height="242" alt="image" src="https://github.com/user-attachments/assets/a680d54f-6362-44b0-b7cc-f31b8f6ca5db" />
+
+### 📌 Analysis 4. Business Unit Performance Shift
+During 2024, offer acceptance rates were consistently strong across Business Units. Acceptance stability suggested competitive positioning and effective candidate engagement. By 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
+
+Scatter analysis indicates that some units maintain moderate Interview → Offer rates but suffer from declining acceptance. This may point to compensation competitiveness, candidate experience inconsistency, or delayed decision cycles in certain units. Performance dispersion across BUs has widened
+
+#### *2024 Offer Conversion Alignment by Business Unit in*
+
+<img width="527" height="224" alt="image" src="https://github.com/user-attachments/assets/f9b3bb0d-d399-4116-935d-69b85ab48447" />
+
+#### *2025 Offer Conversion Alignment by Business Unit*
+
+<img width="522" height="224" alt="image" src="https://github.com/user-attachments/assets/5fb92357-562f-4408-a664-2c8f65e18330" />
+
+### 📌 Analysis 5. Monthly Trend Pattern
 
 While 2024 reflected temporary fluctuations followed by recovery, 2025 demonstrates sustained efficiency pressure throughout the year. The additional screening volume failed to drive equivalent hiring outcomes, indicating a structural shift rather than cyclical seasonality
 
 The highlighted months indicate periods where screening volume exceeded the annual average while conversion performance fell below benchmark. This signals that increased sourcing intensity did not generate proportional hiring outcomes. In several high-volume periods, efficiency declined further rather than improving. The pattern points to structural inefficiency under pressure — potentially driven by diluted screening criteria, heavier recruiter workload, slower hiring decisions or reduced offer competitiveness. Notably in 2025, the clustering of such months suggests that scaling effort without reinforcing conversion discipline amplified pipeline leakage instead of strengthening hiring success
 
-## Recommendations
-### 1. Tighten Early Stage Qualification
-- Conduct a brief alignment session before major hiring waves to clarify must-have vs. nice-to-have criteria
-- Implement a mandatory 5–7 point screening checklist before submitting CVs
-- Track first-round rejection rate of submitted CVs
-- Reduce reliance on high-volume channels with consistently low interview conversion
-### Target: bring CVs per Interview down to ≤8 within two quarters
+### Recommendations
+#### 1️⃣ Strengthen Early Funnel Qualification
+- Align must have criteria before major hiring waves
+- Standardize screening checklist to improve CV quality
+- Reduce dependency on high volume, low conversion channels
+  
+#### 2️⃣ Enforce Interview & Decision Discipline
+- Implement structured interview scorecards
+- Limit excessive interview rounds and monitor roles with high interview-per offer ratios
+- Establish strict feedback turnaround timelines
 
-### 2. Standardize Interview & Decision Discipline
-- Introduce structured interview scorecards with 3–5 fixed evaluation criteria per role group
-- Cap interview rounds (e.g., maximum three rounds unless justified)
-- Set a 48-hour feedback SLA after interviews
-- Review roles requiring more than eight interviews per offer on a monthly basis
-### Target: reduce Interviews per Offer to ≤7
+#### 3️⃣ Protect Offer Yield & Drive Accountability
+- Conduct systematic analysis of declined offers
+- Improve decision speed to reduce candidate drop off
+- Track BU level conversion KPIs and link to performance reviews
 
-### 3. Protect Offer Yield & Strengthen BU Accountability
-- Analyze the most recent 10 declined offers to identify recurring themes
-- Reduce average time to offer by 20%
-- Publish monthly BU-level conversion dashboards with benchmark thresholds
-- Integrate conversion KPIs into recruiter and BU performance reviews
-### Target: restore Acceptance Rate to ≥85% & reduce cross BU variance
+### 2️⃣ Source Performance & Conversion Effectiveness
 
-## I. Source Performance & Conversion Effectiveness
+<img width="1033" height="358" alt="image" src="https://github.com/user-attachments/assets/5e93ed02-0e60-4672-be1c-b0c30b822684" />
 
-### 1. Sourcing Effectiveness Shift: 2024 vs 2025
+### 📌 Analysis 1. Sourcing Effectiveness Shift
 
-In 2024, hiring output was relatively balanced across major sourcing channels. TopCV & CareerViet generated the largest screening volumes while Employee Referral delivered strong hiring efficiency despite lower volume. Although high volume platforms required greater screening effort, conversion performance remained within an acceptable range, indicating manageable quality dispersion across channels
+During 2024, hiring output was relatively balanced across major sourcing channels. TopCV & CareerViet generated the largest screening volumes while Employee Referral delivered strong hiring efficiency despite lower volume. Although high volume platforms required greater screening effort, conversion performance remained within an acceptable range, indicating manageable quality dispersion across channels
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Hiring%20rate%20by%20source%20(2024).png)
+<img width="1036" height="212" alt="image" src="https://github.com/user-attachments/assets/8c2496bc-4f93-4e84-8198-7801b435bff0" />
 
-In 2025, sourcing dynamics became more polarized. Screening volume increased across major job boards, yet hiring contribution became increasingly concentrated in fewer channels. High volume sources such as CareerViet & TopCV absorbed a disproportionate share of screening activity but delivered weaker hiring success rates. Meanwhile, Employee Referral continued to demonstrate superior efficiency, requiring fewer CVs and interviews per hire
+Looking at 2025, sourcing dynamics became more polarized. Screening volume increased across major job boards, yet hiring contribution became increasingly concentrated in fewer channels. High volume sources such as CareerViet & TopCV absorbed a disproportionate share of screening activity but delivered weaker hiring success rates. Meanwhile, Employee Referral continued to demonstrate superior efficiency, requiring fewer CVs and interviews per hire
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Hiring%20rate%20by%20source%20(2025).png)
+<img width="1038" height="217" alt="image" src="https://github.com/user-attachments/assets/be035d70-4825-43a8-8a17-6bf05de75ae4" />
 
 The volume versus conversion comparison highlights a structural imbalance: incremental screening effort did not produce proportional hiring gains. Instead, effort intensity increased, as reflected in higher CVs per Interview and Interviews per Offer ratios for several large channels. This suggests declining top of funnel quality and reduced mid stage selectivity rather than insufficient pipeline size
 
-### *Relationship Between Screening Volume & Hiring Success by Source in 2024*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Source%20volume%20and%20hiring%20rate%20(2024).png)
-
-### *Relationship Between Screening Volume & Hiring Success by Source in 2025*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/08a35ad7688d4279686a864c52561c8857beae7b/Source%20-%20Source%20volume%20and%20hiring%20rate%20(2025).png)
-
-### *Stage Conversion Relationship by Source in 2024*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20qualification%20breakdown%20(2024).png)
-
-### *Stage Conversion Relationship by Source in 2025*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Stage%20ratios%20by%20source%20(2025).png)
-
-### *Stage Requirement Ratios by Source in 2024*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Stage%20ratios%20by%20source%20(2024).png)
-
-### *Stage Requirement Ratios by Source in 2025*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Stage%20ratios%20by%20source%20(2025).png)
 
 Role specific analysis (e.g., Sales) further indicates that channel effectiveness varies by job family. Certain platforms perform adequately at an overall level but underdeliver in function specific hiring, reinforcing the need for role channel alignment rather than uniform source allocation
 
