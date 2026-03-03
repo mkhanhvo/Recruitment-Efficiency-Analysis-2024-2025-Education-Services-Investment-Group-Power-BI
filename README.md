@@ -1,17 +1,57 @@
 # 📊 Recruitment Performance & Efficiency Analysis 2024–2025
 
 ### Author: Vo Tran Mai Khanh
-### Date: 12/2025
+### Date: 01/2026
 ### Tools Used: Power Query, PBI
 
-# Client Background
+## 📌 Background & Overview  
 
-The A Holdings (name changed for confidentiality) is a UK based investor that entered the Vietnam market 13 years ago with its first franchise in English education, following strong expansion in other countries. The investor has since diversified into pre-school English, STEM and non-education management services, resulting in significant human resource demands for smooth operations and further expansion.
-The hiring process is influenced by multiple factors, including the quality of recruitment channels, recruiter performance, efficiency of hiring processes across business units, durations and conversion rates. Reporting to the Head of HR, this analysis evaluates recruitment performance & efficiency, providing key insights & recommendations focused on:
-- Recruitment Channel Effectiveness: evaluate sourcing performance based on hiring rate, CV efficiency (CVs per Hire, CVs per Interview) & role level channel contribution to identify optimal source role alignment & improve recruitment investment allocation
-- Business Unit & Position Efficiency: analyze hiring conversion patterns across business units & job families to identify structural inefficiencies (e.g., high CV demand, mid funnel drop offs, offer rejection impact) & differentiate strategies by role complexity rather than applying uniform hiring approaches
-- Recruiter (PIC) Performance & Workload Distribution: assess recruiter effectiveness using screen to join success rates, stage level conversion metrics, CV effort per hire & positions handled to ensure balanced workload, role weighted performance evaluation & improved hiring governance
-- Cross Year Performance Diagnosis (2024 - 2025): compare trends year over year to distinguish structural hiring challenges from short-term fluctuations, enabling more precise strategic interventions
+### 📖 Objective:
+This project evaluates recruitment performance to identify inefficiencies, optimize hiring investment and support data driven workforce decisions.
+- Recruitment Channel Effectiveness: assess sourcing performance using hiring rate, CV efficiency and role level contribution to optimize channel investment
+- Business Unit & Position Efficiency: analyze conversion patterns across business units and job families to identify structural bottlenecks and refine hiring strategies by role complexity
+- Recruiter (PIC) Performance & Workload: evaluate recruiter effectiveness through stage conversion rates, CV effort per hire and workload distribution to improve governance and balance performance
+- Year over Year Diagnosis (2024–2025): compare trends to distinguish structural hiring issues from short-term fluctuations
+
+### 👤 Who is this project for?  
+- HR Management – to monitor recruitment performance, identify structural inefficiencies and make strategic workforce planning decisions
+- HR Team (Talent Acquisition) – to optimize sourcing channels, improve stage level conversion and allocate recruiter workload more effectively
+- Business Unit Leaders – to understand hiring efficiency within their teams and adjust role-specific hiring strategies
+- Board of Directors (BOD) – to gain visibility into hiring effectiveness, investment efficiency and talent scalability to support expansion decisions
+
+### 👤 Client Background
+
+The A Holdings is a UK based investor that entered the Vietnam market 13 years ago with its first franchise in English education, following strong expansion in other countries. The investor has since diversified into pre-school English, STEM and non-education management services, resulting in significant human resource demands for smooth operations and further expansion
+
+## 📂 Dataset Description & Data Structure
+
+### 📊 Data Source  
+- Source: internal data from company’s website and other third party hiring channels (TOPCV, VNW, CareerViet, etc.)
+- Size: ~27,000+ records across 01 fact table and 04 supporting dimensions
+- Format: .xlsx
+
+#### 2️⃣ Table Schema & Data Snapshot: 
+**Table 1: Recruitment tracking**
+<details>
+<summary>Recruitment tracking Schema</summary>
+<img width="740" height="94" alt="image" src="https://github.com/user-attachments/assets/f1a28c75-9e15-4e48-875d-5db2024641a4" />
+<img width="959" height="95" alt="image" src="https://github.com/user-attachments/assets/05cbffd2-3fdc-47c4-9411-16c49d8215ee" />
+<img width="574" height="95" alt="image" src="https://github.com/user-attachments/assets/25d33f09-ad65-4e29-a658-8ac45002fd6f" />
+<img width="571" height="94" alt="image" src="https://github.com/user-attachments/assets/2f9f0f2c-7d04-43b8-a5a0-f5ad47b3ad2f" />
+<img width="628" height="93" alt="image" src="https://github.com/user-attachments/assets/d4e27e5a-f664-47ca-906b-18645871e678" />
+</details>
+
+**Table 2: Dimension Position**
+<details>
+<summary>Dimension Position Schema</summary>
+<img width="551" height="95" alt="image" src="https://github.com/user-attachments/assets/53478283-3bcb-443f-97d4-03b1acaf0d11" />
+<img width="572" height="94" alt="image" src="https://github.com/user-attachments/assets/7659c113-2710-43c7-be97-d4b1d1964ffd" />
+</details>
+
+
+- Business Unit
+- Hiring sources
+- Person incharge
 
 # Executive Summary
 
