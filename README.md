@@ -100,11 +100,14 @@ The A Holdings is a UK based investor that entered the Vietnam market 13 years a
 
 ### 📌 Analysis 1. Overall Hiring Performance: 2024 vs 2025
 
-In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a Hiring Success Rate of 2.3%. Offer Acceptance reached 92.3%, indicating strong offer competitiveness and stable late-stage conversion
+In 2024, recruitment pipeline operated with relatively strong efficiency. Out of 11,931 screened candidates & 274 were successfully onboarded, resulting in a **Hiring Success Rate of 2.3%**. **Offer Acceptance reached 92.3%** indicating strong offer competitiveness and stable late stage conversion
+
 
 <img width="1040" height="313" alt="image" src="https://github.com/user-attachments/assets/87f939c0-688b-437b-8a55-6f9ac8212ac5" />
 
-In 2025, although screening volume increased significantly to 14,876 candidates (+25%), total onboarded hires declined sharply to 126. As a result, Hiring Success Rate dropped to 0.8% (–63% YoY). This indicates that the issue in 2025 is not pipeline volume but conversion effectiveness. 2025 reflects a pattern of increased effort but reduced output
+
+In 2025, although** screening volume increased significantly** to 14,876 candidates (+25%), **total onboarded hires declined sharply** to 126. As a result, **Hiring Success Rate dropped to 0.8% (–63% YoY).** This indicates that the issue in 2025 is not pipeline volume but conversion effectiveness. 2025 reflects a pattern of increased effort but reduced output
+
 
 <img width="1037" height="311" alt="image" src="https://github.com/user-attachments/assets/f819d4de-b2a2-4a19-89eb-28c02d4a0743" />
 
@@ -116,7 +119,7 @@ Productivity indicators further confirm this shift. In 2024, 7 CVs were required
 
 <img width="1036" height="175" alt="image" src="https://github.com/user-attachments/assets/bd24ad5f-205e-4e3b-a667-9240ac545904" />
 
-In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. Recruiter effort has increased substantially while yield per stage has decreased. Although offer per hire remains at 1, overall offer issuance has dropped due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
+In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. **Recruiter effort has increased substantially **while yield per stage has decreased. Although offer per hire remains at 1, **overall offer issuance has dropped** due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
 TopCV, CareerViet and LinkedIn remained key sources but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
 
 #### *2025 Hiring Efficiency & Conversion*
@@ -124,20 +127,20 @@ TopCV, CareerViet and LinkedIn remained key sources but offer conversion rates d
 <img width="1040" height="169" alt="image" src="https://github.com/user-attachments/assets/bcb9bfc5-b18e-4cc1-9e8a-ac15351be7b5" />
 
 ### 📌 Analysis 3. Funnel Quality Deterioration
-In 2024, the pipeline showed healthy progression and conversion remained stable across stages: 14.6% of screened candidates progressed to interview, 17.1% of interviews converted to offers & 92.3% of offers were accepted
+In 2024, the pipeline showed** healthy progression and conversion remained stable** across stages: 14.6% of screened candidates progressed to interview, 17.1% of interviews converted to offers & 92.3% of offers were accepted
 
 #### *2024 Hiring Funnel & Performance Overview*
 
 <img width="833" height="242" alt="image" src="https://github.com/user-attachments/assets/91d184d0-4148-4a14-8981-6707899cb0a4" />
 
-In 2025, all major transitions weakened simultaneously: screening → interview declined to 10.4%, interview → offer declined to 10.0% & offer acceptance dropped to 81.3%. This suggests a systemic decline rather than an isolated bottleneck. Candidate qualification at screening appears weaker, interview selectivity less precise & offer competitiveness lower than the prior year. Pipeline leakage increased at every stage
+In 2025, all major transitions weakened simultaneously: **screening → interview declined** to **10.4%, interview → offer declined** to **10.0%** & **offer acceptance dropped** to **81.3%.** This suggests a systemic decline rather than an isolated bottleneck. Candidate qualification at screening appears weaker, interview selectivity less precise & offer competitiveness lower than the prior year. Pipeline leakage increased at every stage
 
 #### *2025 Hiring Funnel & Performance Overview*
 
 <img width="836" height="242" alt="image" src="https://github.com/user-attachments/assets/a680d54f-6362-44b0-b7cc-f31b8f6ca5db" />
 
 ### 📌 Analysis 4. Business Unit Performance Shift
-During 2024, offer acceptance rates were consistently strong across Business Units. Acceptance stability suggested competitive positioning and effective candidate engagement. By 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
+During 2024, **offer acceptance rates were consistently strong across Business Units.** Acceptance stability suggested competitive positioning and effective candidate engagement. By 2025, performance divergence emerged: Property Management fell to 75%, Adult English declined to 78.8%, Group HQ dropped to 70.3%, Kids English & STEM remained comparatively stable around 93–94%
 
 Scatter analysis indicates that some units maintain moderate Interview → Offer rates but suffer from declining acceptance. This may point to compensation competitiveness, candidate experience inconsistency, or delayed decision cycles in certain units. Performance dispersion across BUs has widened
 
@@ -153,9 +156,9 @@ Scatter analysis indicates that some units maintain moderate Interview → Offer
 
 While 2024 reflected temporary fluctuations followed by recovery, 2025 demonstrates sustained efficiency pressure throughout the year. The additional screening volume failed to drive equivalent hiring outcomes, indicating a structural shift rather than cyclical seasonality
 
-The highlighted months indicate periods where screening volume exceeded the annual average while conversion performance fell below benchmark. This signals that increased sourcing intensity did not generate proportional hiring outcomes. In several high-volume periods, efficiency declined further rather than improving. The pattern points to structural inefficiency under pressure — potentially driven by diluted screening criteria, heavier recruiter workload, slower hiring decisions or reduced offer competitiveness. Notably in 2025, the clustering of such months suggests that scaling effort without reinforcing conversion discipline amplified pipeline leakage instead of strengthening hiring success
+The highlighted months indicate periods where screening volume exceeded the annual average while conversion performance fell below benchmark. This signals that increased sourcing intensity did not generate proportional hiring outcomes. In several high volume periods, efficiency declined further rather than improving. The pattern points to structural inefficiency under pressure — potentially driven by diluted screening criteria, heavier recruiter workload, slower hiring decisions or reduced offer competitiveness. Notably in 2025, the clustering of such months suggests that scaling effort without reinforcing conversion discipline amplified pipeline leakage instead of strengthening hiring success
 
-### Recommendations
+### 🎯 Recommendations
 #### 1️⃣ Strengthen Early Funnel Qualification
 - Align must have criteria before major hiring waves
 - Standardize screening checklist to improve CV quality
@@ -177,45 +180,81 @@ The highlighted months indicate periods where screening volume exceeded the annu
 
 ### 📌 Analysis 1. Sourcing Effectiveness Shift
 
-During 2024, hiring output was relatively balanced across major sourcing channels. TopCV & CareerViet generated the largest screening volumes while Employee Referral delivered strong hiring efficiency despite lower volume. Although high volume platforms required greater screening effort, conversion performance remained within an acceptable range, indicating manageable quality dispersion across channels
+During 2024, hiring output was relatively balanced across major sourcing channels. **TopCV & CareerViet generated the largest screening volumes while Employee Referral delivered strong hiring efficiency despite lower volume.** Although high volume platforms required greater screening effort, conversion performance remained within an acceptable range, indicating manageable quality dispersion across channels
 
 <img width="1036" height="212" alt="image" src="https://github.com/user-attachments/assets/8c2496bc-4f93-4e84-8198-7801b435bff0" />
 
-Looking at 2025, sourcing dynamics became more polarized. Screening volume increased across major job boards, yet hiring contribution became increasingly concentrated in fewer channels. High volume sources such as CareerViet & TopCV absorbed a disproportionate share of screening activity but delivered weaker hiring success rates. Meanwhile, Employee Referral continued to demonstrate superior efficiency, requiring fewer CVs and interviews per hire
+Looking at 2025, sourcing dynamics became more polarized. Screening volume increased across major job boards, yet **hiring contribution became increasingly concentrated in fewer channels.** High volume sources such as CareerViet & TopCV absorbed a disproportionate share of screening activity but delivered weaker hiring success rates. Meanwhile, **Employee Referral continued to demonstrate superior efficiency,** requiring fewer CVs and interviews per hire
+
+The volume versus conversion comparison highlights a structural imbalance:** incremental screening effort did not produce proportional hiring gains**. Instead, effort intensity increased as reflected in higher CVs per Interview and Interviews per Offer ratios for several large channels. This suggests declining top of funnel quality and reduced mid stage selectivity rather than insufficient pipeline size
 
 <img width="1038" height="217" alt="image" src="https://github.com/user-attachments/assets/be035d70-4825-43a8-8a17-6bf05de75ae4" />
 
-The volume versus conversion comparison highlights a structural imbalance: incremental screening effort did not produce proportional hiring gains. Instead, effort intensity increased, as reflected in higher CVs per Interview and Interviews per Offer ratios for several large channels. This suggests declining top of funnel quality and reduced mid stage selectivity rather than insufficient pipeline size
+### 📌 Analysis 2. Channel Performance Variance by Critical roles (Sales & Teacher)
 
+For Sales roles, hiring efficiency deteriorated markedly from 2024 to 2025. While **TopCV remained the dominant source (48.3% in 2024 and 44.4% in 2025),** screening effort increased sharply: CVs per interview nearly tripled for TopCV (from 9 to 24) and more than doubled for CareerViet (from 16 to 37), indicating significant quality dilution in high volume channels. Hiring success rates declined in 2025 despite increased sourcing volume, reflecting rising input but lower yield. In contrast, **Employee Referral consistently delivered stronger conversion performance across both years,** with lower CV effort and higher success rates. Funnel data suggests that the primary **bottleneck lies in early stage qualification (Screen → Interview),** rather than offer stage acceptance
 
+Overall, Sales hiring in 2025 became more volume driven but less efficient, reinforcing the need to rebalance sourcing strategy toward higher-quality, role aligned channels rather than relying heavily on broad job boards
 
-Role specific analysis (e.g., Sales) further indicates that channel effectiveness varies by job family. Certain platforms perform adequately at an overall level but underdeliver in function specific hiring, reinforcing the need for role channel alignment rather than uniform source allocation
+### *Sales Source Effectiveness (2024)*
 
-### *Sales hiring rate by source in 2024*
+<img width="1037" height="211" alt="image" src="https://github.com/user-attachments/assets/615a8da5-8671-47a8-8ed2-abdcb7a5fa17" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fbbd28796079e4b0ff06992bad9a01452ab03607/Source%20-%20Hiring%20rate%20by%20source%20(2024).png)
+### *Sales Source Effectiveness (2025)*
 
-### *Sales hiring rate by source in 2025*
+<img width="1034" height="213" alt="image" src="https://github.com/user-attachments/assets/83e73452-059e-4630-871f-c092516f2747" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/40ae679f306329436a2211147fe8073a665a743f/Source%20-%20Sales%20consultant%20hire%20by%20source%20(2025).png)
-
-This pattern is also evident in the Teacher position where channel contribution shifted significantly year over year. While VTJ dominated hiring share in 2024, its sharp decline in 2025 highlights how source performance can fluctuate depending on role dynamics & sourcing strategy adjustments. In contrast, TopCV strengthened its position as the primary hiring driver & Employee Referral emerged as a meaningful contributor, suggesting improved alignment between channel quality & role requirements. Together, these findings emphasize that sourcing strategy should be calibrated at the job-family level, with ongoing performance monitoring to optimize conversion efficiency and hiring outcomes
-
-### *Teacher hiring rate by source in 2024*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/ae7faf39d985fe8052ab37c740a189442de1fc06/Source%20-%20Teacher%20hire%20by%20source%20(2024).png)
-
-### *Teacher hiring rate by source in 2025*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/80cc9e8f8f0f237e2a465a26b511e4ea64396e5d/Source%20-%20Teacher%20hire%20by%20source%20(2025).png)
+This pattern is also evident in the Teacher position where channel contribution shifted significantly year over year. While **VTJ dominated hiring share in 2024, its sharp decline in 2025** highlights how source performance can fluctuate depending on role dynamics & sourcing strategy adjustments. In contrast, **TopCV strengthened its position as the primary hiring driver & Employee Referral emerged as a meaningful contributor,** suggesting improved alignment between channel quality & role requirements. Together, these findings emphasize that sourcing strategy should be calibrated at the job family level with ongoing performance monitoring to optimize conversion efficiency and hiring outcomes
 
 Overall, the data suggests that sourcing inefficiency in 2025 is driven primarily by channel mix quality rather than absolute screening volume. Without recalibrating allocation toward consistently high-yield channels, additional sourcing effort is likely to amplify recruiter workload rather than improve hiring output
 
-# II. Business Unit & Position Efficiency Analysis – 2024 & 2025
-  
+#### *Teacher Source Effectiveness (2024)*
+
+<img width="1035" height="211" alt="image" src="https://github.com/user-attachments/assets/f52b4cba-f65b-4174-aa93-c3df91b82191" />
+
+#### *Teacher Source Effectiveness (2025)*
+
+<img width="1037" height="215" alt="image" src="https://github.com/user-attachments/assets/dbb6493e-3873-48e4-9b71-64e290db5a27" />
+
+### 🎯 Recommendations
+#### 1️⃣ Rebalance Channel Allocation Toward High-Yield Sources
+- Gradually reduce reliance on high volume, low conversion job boards (e.g., TopCV, CareerViet for Sales)
+- Expand Employee Referral incentives for Sales & Teacher roles, given its consistently superior conversion efficiency
+- Set minimum conversion benchmarks (e.g., Screen → Interview rate threshold) for continued budget allocation per source
+
+#### 2️⃣ Strengthen Early-Stage Qualification Controls (Screen → Interview)
+- Introduce stricter screening alignment sessions for Sales roles before mass sourcing
+- Define target CV → interview efficiency bands per job family (e.g., flag when CVs per Interview exceed historical range)
+- Monitor top of funnel quality weekly during high growth periods
+
+#### 3️⃣ Implement Role-Specific Sourcing Strategy
+- Develop separate sourcing mix targets for Sales vs. Teacher roles
+- Review annual channel performance at the job family level rather than overall averages
+- Reallocate sourcing investment dynamically based on role level conversion yield
+
+#### 4️⃣ Introduce Volume to Yield Monitoring Framework
+- Track incremental hires per additional 100 screened CVs by source
+- Flag sources where screening effort rises without proportional hiring gain
+- Incorporate yield efficiency KPIs into recruiter and BU performance dashboards
+- Rationale: 2025 shows rising input but declining output, indicating structural inefficiency rather than pipeline shortage
+
+#### 5️⃣ Protect Recruiter Capacity During Expansion Phases
+- Pre-define sourcing caps for channels exceeding CV per Interview thresholds
+- Shift recruiter effort toward higher probability pipelines instead of scaling screening volume
+
+### 3️⃣ Business Unit & Position Efficiency Analysis
+
 Across 2024 & 2025, high CVs per hire consistently concentrate in strategic, technical and Head Quarter based roles with selected commercial positions in Adult English also requiring significant hiring effort. Funnel diagnostics indicate that neither screening intensity nor offer rejection rate fully explains this inefficiency. While mid funnel conversion (interview → offer) contributes in certain roles, the pattern suggests more structural challenges, such as talent scarcity, expectation misalignment & market competitiveness rather than isolated process issues
 
-### 1. High CVs per Hire – Cross Year Pattern
+#### *2024 Business & Position - Level Recruitment Performance*
+
+<img width="1036" height="380" alt="image" src="https://github.com/user-attachments/assets/50337680-453b-48f2-ab3c-ce60c0849c16" />
+
+#### *2025 Business & Position - Level Recruitment Performance*
+
+<img width="1035" height="382" alt="image" src="https://github.com/user-attachments/assets/6b0ed427-fa58-4782-a785-00b0e3f820aa" />
+
+### 📌 Analysis 1. High CVs per Hire – Cross Year Pattern
 In 2024, high CVs volume intensive roles were primarily concentrated in:
 - Senior HQ functions (Marketing Head, Finance Head, HRBP, Investment Analyst)
 - Specialized roles (Software Support, Corporate Investment)
@@ -227,181 +266,128 @@ In 2025, the pattern remains similar, with concentration in:
 
 Cross year consistency shows that hiring inefficiency is role structure driven rather than year specific fluctuation
 
-### 2. Is Offer Rejection the Key Reason?
+### 📌 Analysis 2. Is Offer Rejection the Key Reason?
 Across both years, only a minority of high CV per hire roles overlap with high rejection positions. Several roles show high rejection rates but do not require excessive CV volume. Offer rejection contributes in selected cases but does not systematically drive CV inefficiency
 
-### *Top 10 Positions – Highest CVs per Hire vs Highest Offer Rejection Rate (2024)*
+#### *Top 10 Positions – Highest CVs per Hire vs Highest Offer Rejection Rate (2024)*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/1b6d5479662b2f1bce0dd133bfd2bbb6c1a4b340/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Hire%20%26%20Rejection%20rate%20(2024)%20-%2055%25%20image.png)
+<img width="725" height="257" alt="image" src="https://github.com/user-attachments/assets/1d061443-36fc-4700-a57f-1d43ab0b9f2c" />
 
-### *Top 10 Positions – Highest CVs per Hire vs Highest Offer Rejection Rate (2025)*
+#### *Top 10 Positions – Highest CVs per Hire vs Highest Offer Rejection Rate (2025)*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/27550888d29e9ef7a7b9312f3ba6df51e6b765c4/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Hire%20%26%20Rejection%20rate%20(2025)%20-%2055%25%20image.png)
+<img width="725" height="260" alt="image" src="https://github.com/user-attachments/assets/8c7d3037-fda8-4c94-945c-12c83a07b5eb" />
 
-### 3. Is Screening Volume the Main Driver?
+### 📌 Analysis 3. Is Screening Volume the Main Driver?
 In both years, roles requiring high CV volume to generate interviews do not significantly overlap with those requiring high CVs per hire. This indicates front end screening inefficiency is not the primary root cause. High CV requirement is not simply due to poor CV quality inflow
 
-### *Top 10 Positions with the Highest CVs per Interview (2024)*
+#### *Top 10 Positions with the Highest CVs per Interview (2024)*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Interview%20(2024).png)
+<img width="365" height="261" alt="image" src="https://github.com/user-attachments/assets/02297e90-f16e-4476-a81a-8131a8280b39" />
 
 ### *Top 10 Positions with the Highest CVs per Interview (2025)*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20CVs%20per%20Interview%20(2025).png)
+<img width="362" height="261" alt="image" src="https://github.com/user-attachments/assets/b42e4668-d7ed-4736-b4af-ed1255b63c81" />
 
-### 4. Mid Funnel Conversion Impact
+### 📌 Analysis 4. Mid Funnel Conversion Impact
 In 2025 especially, several high CV intensive roles also show high Interview per Offer ratios (e.g., Strategy, Commercial Solution, Teacher, Student Services). This suggests mid funnel inefficiency partially explains hiring effort, particularly for strategic and education related roles. However, since overlap remains limited, this still does not fully account for the pattern
 
-### *Top 10 Positions with the Highest Interviews per Offer (2024)*
+#### *Top 10 Positions with the Highest Interviews per Offer (2024)*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20Interview%20per%20Offer%20(2024).png)
+<img width="364" height="258" alt="image" src="https://github.com/user-attachments/assets/1822747d-77ac-469c-b75f-a927c1f45541" />
 
-### *Top 10 Positions with the Highest Interviews per Offer (2025)*
+#### *Top 10 Positions with the Highest Interviews per Offer (2025)*
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/f14d595e1396c1a778a3041513683d45c41c2570/BU%20-%20Top%2010%20positions%20with%20most%20Interview%20per%20Offer%20(2025).png)
+<img width="363" height="257" alt="image" src="https://github.com/user-attachments/assets/0ed95f37-b989-4722-bd7d-f1bcabb49f98" />
 
-## Core Cross Year Insight
-High CV per hire roles across 2024 2025 are:
-- Concentrated in high complexity and strategic functions
-- Frequently HQ-based
-- Sensitive to market supply demand imbalance
-- Partially affected by mid funnel conversion challenges
+Across 2024–2025, roles with consistently high CV per hire ratios were primarily concentrated in complex, strategic and HQ-based functions. These positions appear structurally constrained by talent scarcity (notably in Data, Strategy, and Digital domains), heightened hiring standards and market supply demand imbalance. Conversion friction in the mid funnel further amplified screening effort without proportional hiring gains. Overall, the pattern suggests that inefficiency is driven less by pipeline volume and more by structural factors such as compensation competitiveness + expectation misalignment between hiring managers and market realities
 
-The data suggests structural factors such as:
-- Talent scarcity (Data, Strategy, Digital roles)
-- Compensation competitiveness
-- Elevated hiring standards
-- Expectation misalignment between hiring managers and market reality
+### 🎯 Recommendations
+- Conduct quarterly expectation calibration workshops with hiring managers for strategic/HQ roles to align requirements with market supply realities
+- Reduce job board allocation for high complexity roles and reallocate budget to precision sourcing (headhunting, niche platforms, referral campaigns)
+- Set efficiency guardrails (e.g., max CVs per interview threshold) to trigger sourcing strategy review when exceeded
+- Implement structured mid-funnel checkpoints (post-screen review + post-interview alignment within 48h) to minimize unnecessary CV recycling
+- Introduce role complexity-based hiring playbooks, differentiating sourcing and evaluation strategy by job family rather than applying a uniform recruitment model
 
-## Recommendations
-The consistent concentration of high CVs per hire in strategic and Head Quarter roles across two consecutive years signals a structural hiring challenge, not a temporary funnel fluctuation. Continuing to apply volume based recruitment strategies to high complexity roles will likely increase sourcing effort without materially improving hiring outcomes
+### 4️⃣ PIC Performance Analysis
 
-Leadership intervention is required in three areas:
-- Recalibrate role expectations vs. market reality for strategic and technical positions
-- Shift from volume sourcing to precision sourcing (targeted channels, headhunting, niche pools)
-- Strengthen hiring manager alignment and decision discipline to reduce mid-funnel inefficiencies.
+Across 2024-2025, PIC performance shows increasing dispersion between high efficiency & low efficiency recruiters. While certain PICs consistently demonstrate strong screen to join success rates & balanced funnel conversion, performance gaps widen in BU specific hiring particularly in Sales and HQ roles. Bubble size comparison (CVs per Hire) further indicates that high success rate does not always equate to sourcing efficiency, highlighting the need for workload balancing & role based performance calibration
 
-Without differentiated strategy by job complexity, recruitment effort will continue to scale disproportionately with limited return. The data indicates that efficiency gains will not come from “more CVs,” but from smarter targeting and tighter decision alignment
+#### *Recruiter Performance & Workload Distribution (2024)*
 
-## III. PIC Performance Analysis - 2024 & 2025
+<img width="1034" height="361" alt="image" src="https://github.com/user-attachments/assets/d55e6788-87d0-4e8c-869e-9eb416589c71" />
 
-Across 2024 - 2025, PIC performance shows increasing dispersion between high efficiency & low efficiency recruiters. While certain PICs consistently demonstrate strong screen to join success rates & balanced funnel conversion, performance gaps widen in BU specific hiring particularly in Sales and HQ roles. Bubble size comparison (CVs per Hire) further indicates that high success rate does not always equate to sourcing efficiency, highlighting the need for workload balancing & role based performance calibration
+#### *Recruiter Performance & Workload Distribution (2025)*
 
-### 1. Overall PIC Performance (2024 vs 2025)
+<img width="1031" height="360" alt="image" src="https://github.com/user-attachments/assets/c5055eb7-c806-42de-b5e5-d34c601c1530" />
+
+### 📌 Analysis 1. Overall PIC Performance
 - 2025 shows greater variance in success rates across PICs compared to 2024
 - Some PICs improved conversion efficiency but handled fewer positions
 - Others handled high volume but with lower screen → interview or interview → offer rates
 
-### *Overall PIC Performance (2024)*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Performance%202024.png)
-
-### *Overall PIC Performance (2025)*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/615ecf8eb3095fae88e9bc48026092b57a0756db/PIC%20-%20HQ%20Performance%20in%202025.png)
-
 Bubble analysis indicates that higher CVs per Hire is often associated with: strategic/Head Quarter (HQ) roles & complex commercial positions. Efficiency and workload are not evenly distributed. High-performing PICs are not necessarily those handling the most complex or volume heavy roles. Performance evaluation should consider both funnel efficiency & role complexity
 
-### 2. Sales Hiring – Adult English Business Unit (2024 vs 2025)
-- 2024: Performance relatively clustered, no extreme outliers
-- 2025: Clear divergence one PIC shows very high interview → offer rate but low HR screen → interview rate
-- Increased bubble size for certain PICs suggests heavier sourcing effort per hire. Sales hiring in Adult English became more polarized in 2025
+#### *Overall PIC Performance (2024)*
 
-### *Sales Hiring – Adult English Business Unit (2024)*
+<img width="745" height="199" alt="image" src="https://github.com/user-attachments/assets/dac8e29c-f39a-4bd5-9820-0c90f4a64e24" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Sales%20hiring%20performance%20for%20Adult%20English%20(2024).png)
+#### *Overall PIC Performance (2025)*
 
-### *Sales Hiring – Adult English Business Unit (2025)*
+<img width="746" height="199" alt="image" src="https://github.com/user-attachments/assets/1bb37f5d-d41a-4825-9a5a-3c5ad967a929" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Sales%20hiring%20performance%20for%20Adult%20English%20(2025).png)
+### 📌 Analysis 2. Sales Hiring – Adult English Business Unit
+In 2024, recruiter performance remained relatively clustered, with no extreme outliers in conversion patterns or effort levels
 
-### Insights
-- Possible inconsistency in candidate screening standards
-- Potential misalignment between early screening & hiring manager expectations
-- Some PICs may rely on narrower pipelines but achieve stronger late stage conversion
+By 2025, however, clear divergence emerged: one PIC demonstrated a notably high Interview → Offer rate despite a low HR Screen → Interview rate, suggesting stronger late stage selectivity but weaker early qualification. The increase in bubble size for certain PICs indicates heavier sourcing effort per hire, particularly within Adult English Sales where hiring outcomes became more polarized. These patterns point to potential inconsistencies in screening standards, misalignment between early stage qualification, hiring manager expectations and differing sourcing strategies where some recruiters rely on narrower pipelines yet achieve stronger late stage conversion efficiency
 
-### 3. Sales Hiring – Kids English Business Unit (2024 vs 2025)
-- 2024: Moderate spread; no extreme inefficiency
-- 2025: One PIC handles significantly more positions than average
-- Conversion rates fluctuate more widely compared to 2024.Workload concentration risk observed in 2025
+#### *Sales Hiring – Adult English Business Unit (2024)*
 
-### *Sales Hiring – Kids English Business Unit (2024)*
+<img width="745" height="200" alt="image" src="https://github.com/user-attachments/assets/30da8f84-04cb-47ac-ade1-eff8f9bd9d54" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Sales%20hiring%20performance%20for%20Kids%20English%20(2024).png)
+#### *Sales Hiring – Adult English Business Unit (2025)*
 
-### *Sales Hiring – Kids English Business Unit (2025)*
+<img width="748" height="202" alt="image" src="https://github.com/user-attachments/assets/f7f9adbf-44c2-4231-8f9f-ee7c5bc2076c" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Sales%20hiring%20performance%20for%20Kids%20English%20(2025).png)
+### 📌 Analysis 3. Sales Hiring – Kids English Business Unit
+In 2024, recruiter performance and workload were relatively balanced, with no major inefficiencies
 
-### Insights
-- Over reliance on specific PICs may increase operational risk
-- Efficiency gains may reflect experience accumulation or better hiring calibration
+By 2025, divergence became more visible: one PIC handled significantly more positions than average and conversion rates varied more widely across the team. This suggests emerging workload concentration risk and potential over reliance on specific recruiters, while improved efficiency among some PICs may reflect experience gains or better hiring calibration
 
-### 4. Sales Hiring – STEM Program (2024 vs 2025)
-Performance metrics highly sensitive to small sample size
-- Smaller team size → higher volatility
-- Success rate spikes in 2025 but based on low position volume
-- Bubble sizes suggest relatively high CV effort per hire
+#### *Sales Hiring – Kids English Business Unit (2024)*
 
-### *Sales Hiring – Stem Program Business Unit (2024)*
+<img width="746" height="205" alt="image" src="https://github.com/user-attachments/assets/ebcd6e01-4a6e-4d22-a702-6a1605272d82" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Stem%20performance%202024.png)
+#### *Sales Hiring – Kids English Business Unit (2025)*
 
-### *Sales Hiring – Stem Program Business Unit (2025)*
+<img width="750" height="202" alt="image" src="https://github.com/user-attachments/assets/6fafb67a-3e42-4358-a1c1-6f779492e489" />
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20Stem%20performance%202025.png)
+### 🎯 Recommendations
+Rebalance workload distribution to reduce concentration risk and avoid over reliance on specific recruiters handling disproportionately high volumes
+- Standardize early stage screening criteria to minimize conversion variance across PICs, particularly at the Screen → Interview stage
+- Evaluate recruiter performance using weighted metrics that account for role complexity, hiring volume and funnel efficiency rather than raw success rate alone
+- Implement periodic funnel calibration reviews to detect misalignment between screening quality and hiring manager expectations
+- Capture and share best practices from recruiters with strong late stage conversion to improve overall team consistency
 
-## Interpretation
-- KPI comparison year over year must consider base volume
-- Efficiency improvements may not yet be structurally stable
+## 🔎 Final Conclusion & Recommendations 
 
-### 5. Head Quarter Hiring (2024 vs 2025)
-- Highest dispersion in funnel efficiency
-- Some PICs demonstrate strong HR screen → interview but weak interview → offer
-- CVs per Hire remains relatively high compared to Sales BUs.
-- HQ hiring remains structurally more complex
+Across 2024–2025, hiring inefficiencies are structurally concentrated in high complexity, driven more by talent scarcity, expectation misalignment and decision stage friction than by sourcing volume alone.Commercial roles like Sales show relatively stable funnels, while strategic and specialized positions require higher CV effort, display greater conversion volatility. PIC performance differences reflect role complexity and workload distribution rather than pure individual capability. Efficiency gains will come from smarter channel-role alignment, earlier hiring manager calibration and differentiated KPIs by job complexity—not from increasing CV volume
 
-### *HQ Hiring Performance (2024)*
+Based on these conclusions, the following recommendations are proposed for the HR team:
 
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20HQ%20Performance%20in%202024.png)
-
-### *HQ Hiring Performance (2025)*
-
-![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/351f29f8b9150a07d99c9d61e3b820a5feb60dfc/PIC%20-%20HQ%20Performance%20in%202025.png)
-
-### Insights
-- Strategic/technical roles likely driving conversion volatility
-- Decision making friction may impact interview → offer stage
-
-## Cross Year Core Insight
-- Performance dispersion increases in 2025
-- Sales BUs show more stable funnel structures compared to HQ
-- High CV effort per hire is frequently associated with strategic roles rather than recruiter inefficiency
-- Workload distribution across PICs becomes increasingly uneven
-
-## Recommendations
-### 1. Differentiate PIC KPIs by Role Complexity
+### 1️⃣ Differentiate PIC KPIs by Role Complexity
 - Do not evaluate HQ & Sales PICs using identical efficiency benchmarks
 - Introduce role weighted performance index
 
-### 2. Balance Workload Distribution
+### 2️⃣ Balance Workload Distribution
 - Avoid concentration of high-complexity roles on few PICs
 - Monitor average positions handled per PIC to reduce burnout risk
 
-### 3. Strengthen Early Funnel Calibration (Sales BUs)
+### 3️⃣ Strengthen Early Funnel Calibration (Sales BUs)
 - Standardize screening criteria
 - Align screening benchmarks with hiring managers
 - Reduce unnecessary CV volume for interview generation.
 
-### 4. Improve Mid-Funnel Governance (HQ)
+### 4️⃣ Improve Mid-Funnel Governance (HQ)
 - Implement structured evaluation scorecards
 - Shorten decision turnaround time
 - Pre-align compensation & expectation to reduce late stage friction
-
-# Overall Summary
-
-Across 2024 & 2025, hiring performance analysis consistently indicates that inefficiencies are structurally concentrated in high complexity, strategic & HQ based roles rather than driven by sourcing volume alone. While screening intensity, offer rejection & mid-funnel conversion contribute in selected cases, none of these factors independently explains the sustained high CVs per hire pattern. Instead, the data suggests systemic challenges linked to talent market scarcity, expectation misalignment &decision-stage friction
-
-At the BU level, commercial & operational roles particularly in Sales demonstrate relatively stable and scalable funnel structures. In contrast, HQ & specialized roles show higher volatility, greater CV effort & more pronounced conversion dispersion. PIC performance analysis further reinforces that recruiter efficiency varies by role complexity and workload distribution rather than purely by individual capability. High success rates do not always correlate with lower CV effort, underscoring the importance of role weighted performance evaluation
-
-Overall, the findings point to a critical shift in recruitment strategy: efficiency gains will not come from increasing CV inflow, but from smarter channel role alignment, earlier hiring manager calibration, differentiated KPIs by job complexity & stronger mid funnel governance. Without structural adjustments, hiring effort will continue to scale disproportionately for strategic roles, limiting overall talent acquisition efficiency & organizational agility
