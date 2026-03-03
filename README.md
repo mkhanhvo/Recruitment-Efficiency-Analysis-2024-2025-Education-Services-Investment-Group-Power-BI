@@ -119,7 +119,7 @@ Productivity indicators further confirm this shift. In 2024, 7 CVs were required
 
 <img width="1036" height="175" alt="image" src="https://github.com/user-attachments/assets/bd24ad5f-205e-4e3b-a667-9240ac545904" />
 
-In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. **Recruiter effort has increased substantially **while yield per stage has decreased. Although offer per hire remains at 1, **overall offer issuance has dropped** due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
+In 2025, screening efficiency declined significantly: CVs per interview increased by 42.9% and interviews per offer surged by 66.7% versus 2024. Recruiter effort has increased substantially while yield per stage has decreased. Although offer per hire remains at 1, **overall offer issuance has dropped** due to weakened upstream conversion. The recruitment engine is working harder but producing fewer outcomes.
 TopCV, CareerViet and LinkedIn remained key sources but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
 
 #### *2025 Hiring Efficiency & Conversion*
