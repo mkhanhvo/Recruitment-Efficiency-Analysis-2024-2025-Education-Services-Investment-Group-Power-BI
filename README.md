@@ -152,12 +152,6 @@ Scatter analysis indicates that some units maintain moderate Interview → Offer
 
 <img width="522" height="224" alt="image" src="https://github.com/user-attachments/assets/5fb92357-562f-4408-a664-2c8f65e18330" />
 
-### 📌 Analysis 5. Monthly Trend Pattern
-
-While 2024 reflected temporary fluctuations followed by recovery, 2025 demonstrates sustained efficiency pressure throughout the year. The additional screening volume failed to drive equivalent hiring outcomes, indicating a structural shift rather than cyclical seasonality
-
-The highlighted months indicate periods where screening volume exceeded the annual average while conversion performance fell below benchmark. This signals that increased sourcing intensity did not generate proportional hiring outcomes. In several high volume periods, efficiency declined further rather than improving. The pattern points to structural inefficiency under pressure — potentially driven by diluted screening criteria, heavier recruiter workload, slower hiring decisions or reduced offer competitiveness. Notably in 2025, the clustering of such months suggests that scaling effort without reinforcing conversion discipline amplified pipeline leakage instead of strengthening hiring success
-
 ### 🎯 Recommendations
 #### 1️⃣ Strengthen Early Funnel Qualification
 - Align must have criteria before major hiring waves
